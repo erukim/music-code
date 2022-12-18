@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.14.0",
+    "chalk": "^4.1.2",
+    "discord.js": "^14.7.1",
+    "erela.js": "^2.4.0",
+    "strip-ansi": "^6.0.1",
+    "winston": "^3.8.2"
+  },
+  "name": "1",
+  "version": "1.0.0",
+  "description": "music",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
